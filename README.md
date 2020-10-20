@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/272278444.svg)](https://zenodo.org/badge/latestdoi/272278444)
+
+
 # aDGVM1_CCAM
 aDGVM1 with CCAM downscaled GCM daily input data
 
